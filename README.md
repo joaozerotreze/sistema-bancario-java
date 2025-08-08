@@ -107,20 +107,4 @@ Desenvolvido como projeto de estudo para fortalecer conhecimentos em Java e prog
 
 ---
 
-## Contato
-
-Para dúvidas, sugestões ou contribuições, me contate:
-
-- Local: Santos, SP, Brasil
-- Email: seu-email@exemplo.com (adicione seu contato real)
-- GitHub: https://github.com/seu-usuario (adicione seu link real)
-
----
-
-### Licença
-
-Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para detalhes.
-
----
-
 *Obrigado por acompanhar este projeto!*
